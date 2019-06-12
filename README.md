@@ -25,3 +25,6 @@ This file takes one row of output pixels (640 pixels) as an input and continuall
 
 Parallel_to_Serial_fixpt.v
 This file is the verilog version of the file Parallel_to_Serial.m
+
+top.v
+This file is a toplevel file combining the various instances of the three verilog files.
